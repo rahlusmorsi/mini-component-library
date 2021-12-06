@@ -23,7 +23,7 @@ const Icon = ({ id, size, strokeWidth = 1, ...delegated }) => {
 
   return (
     <Wrapper
-      className={id}
+      className={'icon-svg'}
       style={{
         '--size': size + 'px',
         '--stroke-width': strokeWidth + 'px',

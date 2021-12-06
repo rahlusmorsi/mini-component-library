@@ -34,7 +34,7 @@ const Presentation = styled.div`
   font-weight: 400;
   padding: 12px 52px 12px 18px;
 
-  & .chevron-down {
+  & .icon-svg {
     pointer-events: none;
     position: absolute;
     top: 8px;
